@@ -1,0 +1,5 @@
+Price_Segment,Test_Records,Avg_Actual_Price,MAE,MAPE
+Low-budget (< 2M),71,1237592.0,339280.0,35.21
+Mid-range (2M - 5M),255,3460482.0,497969.0,14.19
+High-value (5M - 10M),145,6721145.0,1001949.0,14.71
+Luxury/SUV (> 10M),35,17148571.0,4004585.0,23.28
