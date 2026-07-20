@@ -1,0 +1,21 @@
+# Development notebook
+carmodels.ipynb
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
